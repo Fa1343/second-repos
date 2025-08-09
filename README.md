@@ -17,4 +17,4 @@ elif choice == "2":
     print(f"{fahrenheit}°F = {celsius}°C")
 else:
     print("❌ انتخاب نامعتبر!")
-second-repo
+second-repos
